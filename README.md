@@ -1,5 +1,11 @@
 # 실습과제 2번
 
+### 실행방법
+```
+uvicorn hw3:app1
+```
+
+
 ### 기본 동작
 ```
 $ curl -X GET http://localhost:8000/review-sentiments?appid=APPID
